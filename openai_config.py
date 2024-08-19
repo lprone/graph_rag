@@ -1,0 +1,5 @@
+api_key = ""
+api_base = ""
+api_type = ""
+api_version = ""
+deployment_id = "gpt-4"
